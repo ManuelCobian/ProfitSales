@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BottomSheetDialogTheme" parent="BaseBottomSheetDialog" />
+
+    <style name="BaseBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="bottomSheetStyle">@style/BottomSheet</item>
+    </style>
+
+    <style name="BottomSheet" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/view_white_top_rounded_border</item>
+    </style>
+
+    <style name="DatePickerTheme" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorSecondary">@color/primary_green</item>
+    </style>
+
+    <style name="Button.White.Purple.Border.Middle" parent="Button.Middle">
+        <item name="android:background">@drawable/selector_button_white_purple_borders</item>
+        <item name="android:textColor">@drawable/selector_text_color_button_white</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+</resources>

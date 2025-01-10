@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Estado cuando el botón está presionado -->
+    <item android:state_pressed="true" android:drawable="@color/primary_green_pressed"/>
+
+    <!-- Estado cuando el botón está deshabilitado -->
+    <item android:state_enabled="false" android:drawable="@color/primary_green_disabled"/>
+
+    <!-- Estado normal -->
+    <item android:drawable="@color/primary_green"/>
+
+</selector>

@@ -1,0 +1,212 @@
+<resources>
+
+    <!-- Text Normal-->
+    <style name="TextNormal">
+        <item name="android:textSize">@dimen/font_body</item>
+    </style>
+
+    <style name="TextNormal.Black" parent="TextNormal">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextNormal.Purple" parent="TextNormal">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextNormal.White" parent="TextNormal">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextNormal.White.bold" parent="TextNormal.White">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextNormal.Red" parent="TextNormal">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextNormal.Gray" parent="TextNormal">
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+
+    <style name="TextNormal.Black.Bold" parent="TextNormal.Black">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextNormal.Purple.Bold" parent="TextNormal.Purple">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <style name="TextNormal.Light.Purple.Bold" parent="TextNormal.Purple.Bold">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="TextNormal.Light.Red" parent="TextNormal.Red">
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <!-- SubTitle Text-->
+    <style name="TextSubtitle">
+        <item name="android:textSize">@dimen/font_subtitle</item>
+    </style>
+
+    <style name="TextSubtitle.Black" parent="TextSubtitle">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextSubtitle.White" parent="TextSubtitle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextSubtitle.Purple" parent="TextSubtitle">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextSubtitle.Purple.Bold" parent="TextSubtitle.Purple">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextSubtitle.White.Bold" parent="TextSubtitle.White">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextSubtitle.Black.Bold" parent="TextSubtitle.Black">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!-- H1 Text-->
+    <style name="TextH1">
+        <item name="android:textSize">@dimen/font_h1</item>
+    </style>
+
+    <style name="TextH1.Black" parent="TextH1">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextH1.Purple" parent="TextH1">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextH1.Black.Bold" parent="TextH1.Black">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- H1 Text-->
+    <style name="TextH1Super">
+        <item name="android:textSize">@dimen/font_h1_xsuper</item>
+    </style>
+
+    <style name="TextH1Super.White" parent="TextH1Super">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextH1Super.White.Bold" parent="TextH1Super.White">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- H2 Text-->
+    <style name="TextH2">
+        <item name="android:textSize">@dimen/font_h2</item>
+    </style>
+
+    <style name="TextH2.Black" parent="TextH2">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextH2.Black.bold" parent="TextH2.Black">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextH2.Gray" parent="TextH2">
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+
+    <style name="TextH2.Purple" parent="TextH2">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextH2.Purple.Bold" parent="TextH2.Purple">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- H3 Text-->
+    <style name="TextH3">
+        <item name="android:textSize">@dimen/font_h3</item>
+    </style>
+
+    <style name="TextH3.Black" parent="TextH3">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextH3.Black.Bold" parent="TextH3.Black">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- H3 Text-->
+
+    <style name="TextH4">
+        <item name="android:textSize">@dimen/font_h4</item>
+    </style>
+
+    <style name="TextH4.White" parent="TextH4">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextH4.White.Bold" parent="TextH4.White">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Caption 1 Text-->
+    <style name="TextCaption1">
+        <item name="android:textSize">@dimen/font_caption1</item>
+    </style>
+
+    <style name="TextCaption1.Gray" parent="TextCaption1">
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+
+    <style name="TextCaption1.Black" parent="TextCaption1">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <!-- Caption 2 Text-->
+    <style name="TextCaption2">
+        <item name="android:textSize">@dimen/font_caption2</item>
+    </style>
+
+    <style name="TextCaption2.Black" parent="TextCaption2">
+        <item name="android:textColor">@color/semi_black</item>
+    </style>
+
+    <style name="TextCaption2.Purple" parent="TextCaption2">
+        <item name="android:textColor">@color/purple_200</item>
+    </style>
+
+    <style name="TextCaption2.Green" parent="TextCaption2">
+        <item name="android:textColor">@color/primary_green</item>
+    </style>
+
+    <!-- Hiper Text-->
+    <style name="TextHiper">
+        <item name="android:textSize">@dimen/font_h1_hiper</item>
+    </style>
+
+    <style name="TextHiper.White" parent="TextHiper">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextHiper.White.Bold" parent="TextHiper.White">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!-- Text Alert -->
+    <style name="TextAlert.Bold" parent="TextCaption1">
+        <item name="android:textColor">@color/yellow_alert</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProfitGuard</string>
+    <string name="food_save_error">Error al agregar el ingreso</string>
+    <string name="food_save_expenses">Error al agregar el ingreso</string>
+    <string name="convert_to_pesos"> %1$s</string>
+    <string name="sales_title">Gastos</string>
+    <string name="profit_title">Ingresos</string>
+    <string name="profit_expenses_name">Nombre del Gasto</string>
+    <string name="profit_confirm">Guardar</string>
+    <string name="profit_confirm_acepp">Acepto</string>
+    <string name="profit_expenses_total">Ingrese el Monto</string>
+    <string name="confirm_app">Confirmar</string>
+    <string name="cancel_app">Cancelar</string>
+    <string name="delete_profits_app">¿Estas de acuerdo en eliminar el ingreso</string>
+    <string name="message_succes">Se elimino correctamente</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Percentage -->
+    <dimen name="twenty_percentage">0.20</dimen>
+    <dimen name="twentyfive_percentage">0.25</dimen>
+    <dimen name="fifty_percentage">0.5</dimen>
+    <dimen name="sixty_percentage">0.6</dimen>
+
+    <!-- Dimens -->
+    <dimen name="width_image_list">90dp</dimen>
+    <dimen name="width_image_normal_size">150dp</dimen>
+
+    <!-- Spacing-->
+    <dimen name="spacing_empty">0dp</dimen>
+    <dimen name="spacing_xxmicro">0.5dp</dimen>
+    <dimen name="spacing_xmicro">1dp</dimen>
+    <dimen name="spacing_x_micro">2dp</dimen>
+    <dimen name="spacing_micro">3dp</dimen>
+    <dimen name="spacing_xxsmall">4dp</dimen>
+    <dimen name="spacing_xsmall">5dp</dimen>
+    <dimen name="spacing_small">6dp</dimen>
+    <dimen name="spacing_standard">8dp</dimen>
+    <dimen name="spacing_xstandard">10dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_xlarge">20dp</dimen>
+    <dimen name="spacing_xxlarge">24dp</dimen>
+    <dimen name="spacing_xxxlarge">28dp</dimen>
+    <dimen name="spacing_huge">32dp</dimen>
+    <dimen name="spacing_xhuge">40dp</dimen>
+    <dimen name="spacing_xxhuge">48dp</dimen>
+    <dimen name="spacing_xxxhuge">56dp</dimen>
+    <dimen name="spacing_xxxxhuge">64dp</dimen>
+    <dimen name="spacing_vhuge">74dp</dimen>
+    <dimen name="spacing_vhugexx">87dp</dimen>
+    <dimen name="spacing_hiper">80dp</dimen>
+    <dimen name="spacing_xhiper">100dp</dimen>
+
+    <dimen name="size_percentage_progress_bar">60dp</dimen>
+
+    <dimen name="spacing_xxhiper">1300dp</dimen>
+    <dimen name="spacing_ivxhiper">120dp</dimen>
+    <dimen name="spacing_xxxhiper">160dp</dimen>
+    <dimen name="spacing_vhiper">180dp</dimen>
+    <dimen name="spacing_xvhiper">200dp</dimen>
+
+    <!-- Text_size-->
+    <dimen name="font_xmicro">8sp</dimen>
+    <dimen name="font_caption1">12sp</dimen>
+    <dimen name="font_caption2">10sp</dimen>
+    <dimen name="font_caption3">8sp</dimen>
+    <dimen name="font_body">14sp</dimen>
+    <dimen name="font_subtitle">16sp</dimen>
+    <dimen name="font_h4">18sp</dimen>
+    <dimen name="font_h3">20sp</dimen>
+    <dimen name="font_h2">24sp</dimen>
+    <dimen name="font_h1">32sp</dimen>
+    <dimen name="font_h1_super">44sp</dimen>
+    <dimen name="font_h1_xsuper">48sp</dimen>
+    <dimen name="font_h1_xxsuper">64sp</dimen>
+    <dimen name="font_h1_hiper">100sp</dimen>
+    <dimen name="spacing_end">272dp</dimen>
+    <dimen name="min_button_width">112dp</dimen>
+
+    <dimen name="min_button_middle_width">300dp</dimen>
+    <dimen name="radius_small">4dp</dimen>
+
+</resources>

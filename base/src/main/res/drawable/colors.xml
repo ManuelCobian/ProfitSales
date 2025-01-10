@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#f9fbfd</color>
+
+    <color name="primary_purple">#D32F2F</color>
+    <color name="purple">#990000</color>
+    <color name="purple_200">#722F37</color>
+    <color name="purple_500">#722F37</color>
+    <color name="purple_700">#722F37</color>
+
+    <color name="primary_green">#19ab90</color>
+
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="semi_black">#354360</color>
+    <color name="semi_black_transparent">#A41C253D</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gray_principal">#f6f9fc</color>
+
+    <color name="gray_dark">#7e9ebc</color>
+
+    <color name="gray_white">#f3f5f9</color>
+
+    <color name="gray_light">#e8eff6</color>
+
+    <color name="red">#FF0000</color>
+
+    <color name="white_transparent">#AAFFFFFF</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+
+    <color name="primary_red">#ff2525</color>
+
+    <color name="secondary_red">#ffe3de</color>
+
+    <color name="yellow_alert">#f2b174</color>
+
+    <color name="streak">#F3F0FF</color>
+
+    <color name="bds_green">#70A200</color>
+
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="whiteTextColor">#fff</color>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--colors for light mode-->
+    <color name="contentTextColor">#020000</color>
+    <color name="whiteTextColor">#fff</color>
+
+
+    <color name="purple_200">#25C0DE</color>
+    <color name="purple_500">#25C0DE</color>
+    <color name="purple_700">#25C0DE</color>
+
+    <color name="gray_principal">#f6f9fc</color>
+
+    <color name="semi_black">#354360</color>
+
+    <color name="gray_dark">#7e9ebc</color>
+
+    <color name="primary_green">#19ab90</color>
+
+    <color name="yellow_alert">#edd342</color>
+
+
+
+    <color name="orange_alert">#f2b174</color>
+
+    <color name="danger_alert">#ee613b</color>
+
+    <color name="purple">#f2b174</color>
+
+
+    <color name="primary_green_pressed">#0f7b66</color> <!-- Un verde más oscuro cuando está presionado -->
+    <color name="primary_green_disabled">#a3d3cb</color>
+</resources>
