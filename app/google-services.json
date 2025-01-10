@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760213168492",
+    "project_id": "profitpersonal-c5083",
+    "storage_bucket": "profitpersonal-c5083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760213168492:android:931a94f20bb072445f1349",
+        "android_client_info": {
+          "package_name": "com.luvsoft.profitsales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rF5ZNaqgTdyFccVpIQ0OfvgM3jNMX_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760213168492:android:a4e7e6627a246fcf5f1349",
+        "android_client_info": {
+          "package_name": "com.softing.profitsales"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5rF5ZNaqgTdyFccVpIQ0OfvgM3jNMX_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
